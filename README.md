@@ -1,6 +1,4 @@
-Certainly! Below is a template for a README file for your cart page project using Vite, React, and Redux. This template includes sections that are commonly found in effective README files, such as project overview, installation instructions, usage, contributing guidelines, and license information. Feel free to customize it to fit your project's specifics.
 
-```markdown
 # Cart Page with Vite, React, and Redux
 
 This project implements a dynamic and responsive cart page for an eCommerce platform, leveraging the power of Vite for fast development setup, React for building the user interface, and Redux for managing the application's state. The cart page allows users to view items they have added, adjust quantities, remove items, and see the total cost dynamically.
